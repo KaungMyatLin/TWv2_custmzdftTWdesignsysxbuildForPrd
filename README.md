@@ -1,15 +1,3 @@
-# 06: Extracting Reusable Components – Tailwind CSS: From Zero to Production
+# 06: Extracting reusable cmpnt
 
-[Watch the screencast](https://www.youtube.com/watch?v=v-mkUxhaFVA)
-
-Install the required dependencies with `npm`:
-
-```sh
-npm install
-```
-
-Then start the dev server:
-
-```sh
-npm run dev
-```
+Ref: https://www.youtube.com/watch?v=v-mkUxhaFVA&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0&index=7
